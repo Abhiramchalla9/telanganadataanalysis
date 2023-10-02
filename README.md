@@ -13,7 +13,7 @@ For data analysis related to Telangana, specifically regarding "fact_stamps," "f
 5. **Research Institutions**: Universities or research institutions within Telangana may conduct studies and research projects that involve data related to various aspects of the state, including transportation and business activities and can Contact the institutions could provide valuable data sources.
 6. **APIs**: There are any public APIs provided by Telangana government departments or organizations that allow access to real-time or historical data related to transportation and business activities.
 
-##Usage
+## Usage
 
 1.Data Sources: Collect data from "fact_stamps," "fact_transport," and "fact_Ts_ipass" sources.
 2.Data Cleaning: Prepare and clean the data by removing duplicates, handling missing values, and ensuring data quality.
@@ -28,8 +28,9 @@ Power BI provides a user-friendly platform for data analysis and visualization, 
 
 ## Contributions
 
-[Karthik reddy ](https://github.com/karthikreddy-7)
-[Subrahmanya abhiram](https://github.com/Abhiramchalla9)
+-[Karthik reddy ](https://github.com/karthikreddy-7)
+-[Subrahmanya abhiram](https://github.com/Abhiramchalla9)
+
 
 ##contact 
 
