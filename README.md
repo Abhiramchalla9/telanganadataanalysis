@@ -32,7 +32,7 @@ Power BI provides a user-friendly platform for data analysis and visualization, 
 -[Subrahmanya abhiram](https://github.com/Abhiramchalla9)
 
 
-##contact 
+## contact 
 
 Feel free to get in touch with me via email or on GitHub:
 
